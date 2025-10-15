@@ -1,0 +1,3 @@
+A:TP=3TN=6FP=4FN=2,B:TP=4TN=8FP=2FN=1,C:TP=0TN=8FP=2FN=5,
+A:accuracy=0.60recall=0.60FScore=0.43,B:accuracy=0.80recall=0.80FScore=0.67,C:accuracy=0.53recall=0.00FScore=0.00,
+Avg-accuracy=0.64,Avg-reCall=0.47,Avg-FScore=0.37
